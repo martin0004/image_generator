@@ -56,7 +56,6 @@ Generating images using the OpenAI API costs money. Make sure to buy credits bef
 <br>
 <img src="./images/image_generator.jpg" height=500>
 <br>
-<br>
 
 11 - [OPTIONAL] Create alias for launching the app.
 
