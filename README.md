@@ -60,13 +60,11 @@ Generating images using the OpenAI API costs money. Make sure to buy credits bef
 
 11 - [OPTIONAL] Create alias for launching the app.
 
-    ```
     $ cat .bashrc
 
     (...)
     alias openai='conda activate openai; \
                   python3 ~/image_generator/image_generator.py'
-    ```
 
 
 # References
