@@ -70,5 +70,7 @@ Generating images using the OpenAI API costs money. Make sure to buy credits bef
 # References
 
 [1] Plotly, Dash, https://dash.plotly.com/
+
 [2] OpenAI, API Reference - Authentication, https://platform.openai.com/docs/api-reference/authentication
+
 [3] OpenAI, API Reference - Images - Create image, https://platform.openai.com/docs/api-reference/images/create
