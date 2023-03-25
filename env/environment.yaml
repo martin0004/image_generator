@@ -1,0 +1,18 @@
+###############################################################################
+# HOW TO RUN THIS FILE
+# $ conda env create --file environment.yaml
+###############################################################################
+
+name: openai                  # OpenAI environment
+channels:
+  - conda-forge
+dependencies:
+  # Python and pip
+  - python
+  - pip
+  # Machine learning / AI libraries
+  - openai
+  # Plotting libraries   
+  - dash
+  - dash-bootstrap-components
+  - plotly
