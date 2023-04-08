@@ -98,7 +98,7 @@ app.layout = dbc.Container(
             ]
         )
     ],
-    fluid=True,
+    fluid = False,             # "True" = app expands to 100% screen width
     style = {
         "height": "100vh"
     }
